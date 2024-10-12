@@ -6,5 +6,5 @@ node_modules
 .history
 examples/moddef.json
 bin
-anonymous_token
+anonymous_token 
 .vercel
